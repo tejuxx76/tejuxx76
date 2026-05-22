@@ -1,4 +1,4 @@
-# Hi .. I'm Ravindra Bait
+# Hi .. I'm Tejas Bait
 
 🎓 B.Sc Information Technology Student
 💻 Full Stack Developer & Software Enthusiast

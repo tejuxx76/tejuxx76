@@ -1,16 +1,77 @@
-## Hi there 👋
+# Hi .. I'm Ravindra Bait
 
-<!--
-**tejuxx76/tejuxx76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc Information Technology Student
+💻 Full Stack Developer & Software Enthusiast
+📱 Building Flutter, PHP, Python, Java & AI Projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+### Languages
+
+* Java
+* Python
+* PHP
+* JavaScript
+* C++
+* C
+* R
+
+### Mobile & Web
+
+* Flutter
+* React.js
+* HTML
+* CSS
+* Bootstrap
+* jQuery
+* ASP.NET
+
+### Databases
+
+* MySQL
+* MariaDB
+* MongoDB
+
+### Tools
+
+* GitHub
+* VS Code
+* XAMPP
+* Power BI
+* Postman
+* Google Colab
+
+---
+
+## 📌 Featured Projects
+
+### Smart Campus ERP
+
+School & College Management System using Flutter, PHP & MySQL.
+
+### Certi-Nexa
+
+Blockchain-based Certificate Verification Application.
+
+### Voice Calculator
+
+AI-powered voice-based calculator application.
+
+
+
+## 📈 Current Focus
+
+* Full Stack Development
+* Flutter Apps
+* REST APIs
+* AI-based Applications
+* Database Systems
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: @tejuxx76
+* Email: [tejasbait7@gmail.com](mailto:tejasbait7@gmail.com)

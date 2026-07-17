@@ -1,4 +1,4 @@
-# Hi 👋, I'm Tejas Ravindra Bait
+# Hi 👋, I'm Tejas Ravindra Bait 
 
 ### 🎓 B.Sc Information Technology Student
 
